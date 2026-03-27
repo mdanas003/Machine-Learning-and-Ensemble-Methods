@@ -42,16 +42,22 @@ A comprehensive repository covering **fundamental machine learning algorithms an
 
 Dataset
 ↓
+
 Data Preprocessing
 ↓
+
 Model Selection
 ↓
+
 Training Models
 ↓
+
 Evaluation
 ↓
+
 Ensemble Methods
 ↓
+
 Performance Comparison
 
 
@@ -75,7 +81,9 @@ Performance Comparison
 Machine-Learning-and-Ensemble-Methods/
 │
 ├── supervised/
+
 ├── ensemble/
+
 ├── regularization/
 
 
@@ -93,20 +101,23 @@ Machine-Learning-and-Ensemble-Methods/
 
 ## Installation
 
-```bash
+
 git clone https://github.com/YOUR_USERNAME/Machine-Learning-and-Ensemble-Methods.git
 cd Machine-Learning-and-Ensemble-Methods
 Usage
 python filename.py
-Example
+
+## Example
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
-Future Improvements
+
+## Future Improvements
 Model comparison dashboards
 Hyperparameter tuning
 Cross-validation
 Real-world dataset integration
-Author
+
+### Author
 
 Mohammed Anas
 B.Tech IT Student | AI & ML Enthusiast
